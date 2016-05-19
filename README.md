@@ -1,0 +1,2 @@
+# WeClean
+java project
